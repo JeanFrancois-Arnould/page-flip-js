@@ -1,10 +1,6 @@
 # instalation
 
-## ce déplacé dans le bon document
 
-```js
-cd My-app/
-```
 
 ## puis
 
